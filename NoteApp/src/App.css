@@ -1,0 +1,39 @@
+nav{
+  align-items: center;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-around
+}
+li{
+  list-style-type: none;
+}
+section{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  padding: 40px;
+ }
+ .savenote{
+  justify-content: center;
+  display: flex;
+  background-color: aquamarine;
+  margin: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+ }
+ .container{
+  display: flex;
+  flex-wrap: wrap;
+ }
+ form{
+  align-items: center;
+ }
+ label{
+  display: block;
+ }
+ input{
+  text-align: center;
+ }
+ 
