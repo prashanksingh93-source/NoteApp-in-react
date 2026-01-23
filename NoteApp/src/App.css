@@ -17,7 +17,7 @@ section{
  .savenote{
   justify-content: center;
   display: flex;
-  background-color: aquamarine;
+  background-color: rgb(205, 166, 237);
   margin: 20px;
   padding: 20px;
   flex-wrap: wrap;
@@ -35,5 +35,22 @@ section{
  }
  input{
   text-align: center;
+ }
+ form{
+  text-align: center;
+ }
+ h3{
+  text-align: center;
+ }
+ input{
+  width: 400px;
+ }
+ textarea{
+  width: 400px;
+  height: 100px;
+ }
+ button{
+  width: 40px;
+  height: 30px;
  }
  
