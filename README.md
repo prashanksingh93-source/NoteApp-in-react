@@ -1,8 +1,17 @@
 # React Notes App
 
-A simple React Notes App that saves notes to localStorage.
+A simple Notes App built with React that allows users to add and delete notes, with notes saved in localStorage.
 
-Features:
+## Features
 - Add notes
 - Delete notes
-- Save in localStorage
+- Notes persist in localStorage
+
+## Tech Stack
+React, JavaScript, CSS
+
+## How to Run
+1. Clone the repo  
+2. `npm install`  
+3. `npm run dev` or `npm start`
+
