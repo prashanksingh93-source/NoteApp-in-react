@@ -7,6 +7,9 @@ A simple Notes App built with React that allows users to add and delete notes, w
 - Delete notes
 - Notes persist in localStorage
 
+## 🚀 Live Demo
+https://note-app-in-react.vercel.app/
+
 ## Tech Stack
 React, JavaScript, CSS
 
